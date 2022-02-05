@@ -1,2 +1,2 @@
 # Aue823Spring22_ssathe
-Codes and ROS Packages for Aue823 Course
+This repository will contain ROS packages and scripts developed during the course Aue 823: Autonomy Science and Sytems.
